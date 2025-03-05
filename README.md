@@ -1,10 +1,10 @@
 # Optimizing-Power-Generation
 
-# Project Overview
+**Project Overview**
 
 This project presents an optimization model for minimizing electricity generation costs in Ontario, Canada while ensuring sustainability. The model incorporates real-world data, considering fuel costs, health impacts, operational expenses, and startup/shutdown costs, while adhering to emissions caps and grid reliability constraints. The optimization results prioritize renewable energy sources and reduce costs by 35.38%.
 
-Features
+**Features**
 
 1) Data-Driven Optimization: Uses real data from Ontario's Independent Electricity System Operator (IESO).
 
@@ -12,15 +12,15 @@ Features
 
 3) Renewable Energy Focus: Ensures sustainability by prioritizing clean energy sources.
 
-Data Sources
+**Data Sources**
 
-Electricity Generation Data: data/Jan_GenOutputCapabilityMonth_2024.csv
+1) Electricity Generation Data: data/Jan_GenOutputCapabilityMonth_2024.csv
 
 * Contains hourly generation data for various Ontario power plants.
 
 * Includes capability, output, and forecasted values.
 
-Electricity Demand Data: data/ONTARIO_DEMAND_CLEAN.csv
+2) Electricity Demand Data: data/ONTARIO_DEMAND_CLEAN.csv
 
 * Contains hourly electricity demand in Ontario.
 
