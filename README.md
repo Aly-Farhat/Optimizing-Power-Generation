@@ -1,6 +1,6 @@
 # Optimizing-Power-Generation
 
-Project Overview
+# Project Overview
 
 This project presents an optimization model for minimizing electricity generation costs in Ontario, Canada while ensuring sustainability. The model incorporates real-world data, considering fuel costs, health impacts, operational expenses, and startup/shutdown costs, while adhering to emissions caps and grid reliability constraints. The optimization results prioritize renewable energy sources and reduce costs by 35.38%.
 
